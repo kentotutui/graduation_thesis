@@ -1,25 +1,26 @@
 # Fdb version 4
-["bibtex out/thesis"] 1761487480.03557 "out/thesis.aux" "out/thesis.bbl" "out/thesis" 1761487482.63744 0
+["bibtex out/thesis"] 1761488740.22549 "out/thesis.aux" "out/thesis.bbl" "out/thesis" 1761488742.94421 0
   "./junsrt.bst" 1758528727 20405 16c01769263dd60244175a5ec7c0dd70 ""
   "./main_bibliography.bib" 1758530195 229 9133f47c9f4745ffc9233c8b18bad24f ""
-  "out/backmatter/main.aux" 1761487481 1026 80cb54149bae8f9df2b01aefcc61dae6 "latex"
-  "out/frontmatter/main.aux" 1761487480 710 a7d2a9a12e80ad33bea2395926fcf9f5 "latex"
-  "out/introduction/main.aux" 1761487481 1709 2426edcbd9719709963d68de459233b6 "latex"
-  "out/thesis.aux" 1761487481 242 ec9108d11ea5da173526f1c73451e1d0 "latex"
+  "out/backmatter/main.aux" 1761488741 1027 de0f7067520926bec18df523b7cde110 "latex"
+  "out/frontmatter/main.aux" 1761488741 710 a7d2a9a12e80ad33bea2395926fcf9f5 "latex"
+  "out/introduction/main.aux" 1761488741 1709 2426edcbd9719709963d68de459233b6 "latex"
+  "out/technology/main.aux" 1761488741 1147 e4f8c32c21195cd7e6d692c443a026b2 "latex"
+  "out/thesis.aux" 1761488741 271 ca472783ff2e57eb8fd0f2a37f76b638 "latex"
   (generated)
   "out/thesis.bbl"
   "out/thesis.blg"
   (rewritten before read)
-["dvipdf"] 1761487482.05637 "out/thesis.dvi" "out/thesis.pdf" "out/thesis" 1761487482.63929 0
-  "out/thesis.dvi" 1761487481 10656 e375b22583774b3edb3ae2d1eff7c499 "latex"
+["dvipdf"] 1761488742.35044 "out/thesis.dvi" "out/thesis.pdf" "out/thesis" 1761488742.9461 0
+  "out/thesis.dvi" 1761488741 12100 522aaf9e43e35744d15a2ea9ace9a497 "latex"
   (generated)
   "out/thesis.pdf"
   (rewritten before read)
-["latex"] 1761487480.38355 "c:/Users/1412z/tex/thesis_template-main/thesis.tex" "out/thesis.dvi" "thesis" 1761487482.63764 0
+["latex"] 1761488740.59891 "c:/Users/1412z/tex/thesis_template-main/thesis.tex" "out/thesis.dvi" "thesis" 1761488742.94446 0
   "backmatter/acknowledgement.tex" 1761482040 222 f5603b0c89733afaea4e28b3f2883edc ""
   "backmatter/appendix.tex" 1761482036 84 5b5ee9c07bbcfbe3f9fd362091dfc444 ""
   "backmatter/main.tex" 1758530465 215 f46a85ca1a3a4499cb39b2fa8b085225 ""
-  "c:/Users/1412z/tex/thesis_template-main/thesis.tex" 1761487475 1107 bfaff91b4e14900d2ef49dc7334a0ed0 ""
+  "c:/Users/1412z/tex/thesis_template-main/thesis.tex" 1761488725 1133 5aeb9a8150f202a8e59863c38074ee77 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1758522912 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1758524136 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1758524136 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -91,21 +92,25 @@
   "introduction/main.tex" 1761485311 177 e59248af8fb9a2b014ae38a1947051b7 ""
   "introduction/paper_structure.tex" 1761485333 110 467bb76668ea8889e9d65d54368f10ed ""
   "introduction/purpose.tex" 1761484509 106 2c4a05afe04e5130041525da574954de ""
-  "out/backmatter/main.aux" 1761487481 1026 80cb54149bae8f9df2b01aefcc61dae6 "latex"
-  "out/frontmatter/main.aux" 1761487480 710 a7d2a9a12e80ad33bea2395926fcf9f5 "latex"
-  "out/introduction/main.aux" 1761487481 1709 2426edcbd9719709963d68de459233b6 "latex"
-  "out/thesis.aux" 1761487481 242 ec9108d11ea5da173526f1c73451e1d0 "latex"
-  "out/thesis.bbl" 1761487480 229 777ddc716341af728def548ec65df5bc "bibtex out/thesis"
-  "out/thesis.lof" 1761487481 106 a989206e8388860132c3202c32cfee1f "latex"
-  "out/thesis.lot" 1761487481 25 40a7ab6663092f6401e3d29761cfb60e "latex"
-  "out/thesis.out" 1761487481 537 a1a36588049b23b82cf8b867a4abcb81 "latex"
-  "out/thesis.toc" 1761487481 586 7ab73853161054dbfb0764fce6719e32 "latex"
+  "out/backmatter/main.aux" 1761488741 1027 de0f7067520926bec18df523b7cde110 "latex"
+  "out/frontmatter/main.aux" 1761488741 710 a7d2a9a12e80ad33bea2395926fcf9f5 "latex"
+  "out/introduction/main.aux" 1761488741 1709 2426edcbd9719709963d68de459233b6 "latex"
+  "out/technology/main.aux" 1761488741 1147 e4f8c32c21195cd7e6d692c443a026b2 "latex"
+  "out/thesis.aux" 1761488741 271 ca472783ff2e57eb8fd0f2a37f76b638 "latex"
+  "out/thesis.bbl" 1761488740 229 777ddc716341af728def548ec65df5bc "bibtex out/thesis"
+  "out/thesis.lof" 1761488741 131 6ac1f7c5498595af4e0009eae0729e20 "latex"
+  "out/thesis.lot" 1761488741 50 6f209a6c04bc921d7b430a9098da3998 "latex"
+  "out/thesis.out" 1761488741 723 4dbe7c611c6feb1e1a30116d4e81450e "latex"
+  "out/thesis.toc" 1761488741 796 f3ad09e4769bf98fb83eed11fb3878b5 "latex"
+  "technology/leaderfollower.tex" 1761488551 119 f585ef45a179a908db52f400bb6e4679 ""
+  "technology/main.tex" 1761488737 120 024ca881927aaf15a9937bc8573a5fda ""
   "thesis.sty" 1758514846 1121 30f3af03542760972ccf5f2dbfb95d2b ""
-  "thesis.tex" 1761487475 1107 bfaff91b4e14900d2ef49dc7334a0ed0 ""
+  "thesis.tex" 1761488725 1133 5aeb9a8150f202a8e59863c38074ee77 ""
   (generated)
   "out/backmatter/main.aux"
   "out/frontmatter/main.aux"
   "out/introduction/main.aux"
+  "out/technology/main.aux"
   "out/thesis.aux"
   "out/thesis.dvi"
   "out/thesis.lof"

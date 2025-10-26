@@ -121,6 +121,9 @@ INPUT out/frontmatter/main.aux
 INPUT out/introduction/main.aux
 INPUT out/introduction/main.aux
 INPUT out/introduction/main.aux
+INPUT out/technology/main.aux
+INPUT out/technology/main.aux
+INPUT out/technology/main.aux
 INPUT out/backmatter/main.aux
 INPUT out/backmatter/main.aux
 INPUT out/backmatter/main.aux
@@ -214,6 +217,17 @@ INPUT ./introduction/paper_structure.tex
 INPUT ./introduction/paper_structure.tex
 INPUT ./introduction/paper_structure.tex
 INPUT introduction/paper_structure.tex
+INPUT ./technology/main.tex
+INPUT ./technology/main.tex
+OUTPUT out/technology/main.aux
+INPUT ./technology/main.tex
+INPUT ./technology/main.tex
+INPUT technology/main.tex
+INPUT ./technology/leaderfollower.tex
+INPUT ./technology/leaderfollower.tex
+INPUT ./technology/leaderfollower.tex
+INPUT ./technology/leaderfollower.tex
+INPUT technology/leaderfollower.tex
 INPUT ./backmatter/main.tex
 INPUT ./backmatter/main.tex
 OUTPUT out/backmatter/main.aux
@@ -241,6 +255,9 @@ INPUT out/frontmatter/main.aux
 INPUT out/introduction/main.aux
 INPUT out/introduction/main.aux
 INPUT out/introduction/main.aux
+INPUT out/technology/main.aux
+INPUT out/technology/main.aux
+INPUT out/technology/main.aux
 INPUT out/backmatter/main.aux
 INPUT out/backmatter/main.aux
 INPUT out/backmatter/main.aux

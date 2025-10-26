@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.sjis) (TeX Live 2025) (preloaded format=platex 2025.9.22)  26 OCT 2025 23:04
+This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.sjis) (TeX Live 2025) (preloaded format=platex 2025.9.22)  26 OCT 2025 23:25
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -208,7 +208,7 @@ File: l3backend-dvips.def 2025-06-09 L3 backend support: dvips
 \g__pdfannot_backend_int=\count299
 \g__pdfannot_backend_link_int=\count300
 \g__pdfannot_backend_link_sf_int=\count301
-) (out/thesis.aux (out/frontmatter/main.aux) (out/introduction/main.aux) (out/backmatter/main.aux))
+) (out/thesis.aux (out/frontmatter/main.aux) (out/introduction/main.aux) (out/technology/main.aux) (out/backmatter/main.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
@@ -368,11 +368,23 @@ LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 [2]) (./introduction/paper_structure.tex
 
 [3]))
+\openout2 = `technology/main.aux'.
+
+(./technology/main.tex
+第2章
+(./technology/leaderfollower.tex
+
+[4
+
+
+
+
+]))
 \openout2 = `backmatter/main.aux'.
 
 (./backmatter/main.tex (out/thesis.bbl) (./backmatter/appendix.tex
 
-[4
+[5
 
 
 
@@ -380,28 +392,28 @@ LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 
 ]) (./backmatter/acknowledgement.tex
 
-[5
+[6
 
 ]))
 
-[6
+[7
 
-] (out/thesis.aux (out/frontmatter/main.aux) (out/introduction/main.aux) (out/backmatter/main.aux))
+] (out/thesis.aux (out/frontmatter/main.aux) (out/introduction/main.aux) (out/technology/main.aux) (out/backmatter/main.aux))
  ***********
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: A1A36588049B23B82CF8B867A4ABCB81;537.
+(rerunfilecheck)             Checksum: 4DBE7C611C6FEB1E1A30116D4E81450E;723.
  ) 
 Here is how much of TeX's memory you used:
- 9388 strings out of 468441
- 147005 string characters out of 5450487
- 549063 words of memory out of 5000000
- 37888 multiletter control sequences out of 15000+600000
+ 9424 strings out of 468441
+ 148067 string characters out of 5450487
+ 549663 words of memory out of 5000000
+ 37913 multiletter control sequences out of 15000+600000
  692503 words of font info for 99 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  72i,9n,79p,294b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/thesis.dvi (13 pages, 10656 bytes).
+Output written on out/thesis.dvi (14 pages, 12100 bytes).
